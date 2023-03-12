@@ -1,2 +1,0 @@
-# ngetes
-Ngetes
